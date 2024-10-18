@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-242.23339.11">
+    <data-source name="hotel@localhost" uuid="0789cc92-e2a1-449c-bef6-fc3f3a6194f1">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MONGO" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="booking@localhost" uuid="768ca0d8-cc5b-496b-86b3-18c1310c8a55">
+      <database-info product="Mongo DB" version="8.0.0" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.18" dbms="MONGO" exact-version="8.0.0" exact-driver-version="1.18" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>ramonarcis</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
