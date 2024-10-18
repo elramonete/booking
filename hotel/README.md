@@ -1,7 +1,7 @@
 # Prueba Técnica Avoristech
 
 **Ramón Arcís Burgos**
-
+**dni: 20826736Y**
 **email: ramonarcis@hotmail.com**
 
 Este es el proyecto realizado para la prueba de Avoristech
