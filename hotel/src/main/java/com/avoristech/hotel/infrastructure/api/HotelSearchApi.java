@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 
-@Tag(name = "hotel", description = "Operaciones de consulta de hotel")
+@Tag(name = "hotel", description = "Operaciones del consulta de hotel")
 public interface HotelSearchApi {
 
     @Operation(summary = "Reserva de un hotel")
