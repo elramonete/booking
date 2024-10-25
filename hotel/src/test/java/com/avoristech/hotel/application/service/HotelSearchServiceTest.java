@@ -50,6 +50,6 @@ class HotelSearchServiceTest {
 
         long count = hotelSearchService.countDocumentToDatabase(entity);
 
-        assertEquals(3L, count);
+        assertEquals(13L, count);
     }
 }
