@@ -75,3 +75,13 @@ curl --location 'http://localhost:8080/count?searchId=9468' \
 --header 'accept: application/json'
 
 
+Añadimos la herramienta Jenkins para la automatizacion CI/CD en el desarrollo del software.  
+http://localhost:8080/job/ProyectoBooking/
+
+Previamente en github sobre el proyecto que tenemos en Jenkins debemos de añadir en setting/Webhooks, la URL.
+De esta forma cuando realizamos un commit automaticamente se autodespliega en el Jenkins.
+
+Github (nuestro proyecto) : ![img_3.png](img_3.png)
+
+Jenkins: ![img_2.png](img_2.png)
+
