@@ -83,6 +83,6 @@ De esta forma cuando realizamos un commit automaticamente se autodespliega en el
 
 Github (nuestro proyecto) : ![img_3.png](img_3.png)
 
-Jenkins: ![img_2.png](img_2.png) ;
-![img_4.png](img_4.png)
+Jenkins: ![img_4.png](img_4.png)
+![img_2.png](img_2.png) 
 
